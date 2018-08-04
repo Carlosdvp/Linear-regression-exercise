@@ -1,0 +1,18 @@
+/*
+Global Styles
+*/
+
+body {
+	background-color: lightskyblue;
+	color: ghostwhite;
+	text-align: center;
+}
+
+/* 
+The Canvas
+ */
+
+/* not working for some reason */
+.p5Canvas {
+	margin: 0 auto;
+} 
